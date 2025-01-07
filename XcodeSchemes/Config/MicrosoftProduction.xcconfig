@@ -1,0 +1,15 @@
+//
+//  MicrosoftProduction.xcconfig
+//  XcodeSchemes
+//
+//  Created by MANAS VIJAYWARGIYA on 07/01/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// MicrosoftProduction.xcconfig App Settings
+APP_NAME = Microsoft
+APP_BUNDLE_ID = com.blacenova.XcodeSchemes.microsoft
+APP_VERSION = 2.0
+APP_BUILD = 2
