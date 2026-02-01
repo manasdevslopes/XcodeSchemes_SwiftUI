@@ -1,2 +1,21 @@
 Xcode App Environments, Schemes & Configurations
 <br>Blog from blacenova.worpress.com - https://blacenova.wordpress.com/2025/01/04/xcode-app-environments-schemes-configurations/
+<img width="1710" height="1107" alt="1" src="https://github.com/user-attachments/assets/02a5e334-e491-4c05-b707-e633f65fa6cd" />
+<img width="1710" height="1107" alt="2" src="https://github.com/user-attachments/assets/7c9a7157-422e-4839-9bb3-989c5ebf5db3" />
+<img width="1710" height="1107" alt="3" src="https://github.com/user-attachments/assets/e89e3c9b-506d-41f3-88de-09454e75750b" />
+<img width="1710" height="1107" alt="4" src="https://github.com/user-attachments/assets/ee8bbbb2-3251-4dc3-b94a-c7ce79477236" />
+<img width="1710" height="1107" alt="5" src="https://github.com/user-attachments/assets/aa11ab8e-dd3e-492e-adac-54cba913a308" />
+<img width="1710" height="1107" alt="6" src="https://github.com/user-attachments/assets/90cc10b9-aebe-48ab-9005-2a9331628b62" />
+<img width="1710" height="1107" alt="7" src="https://github.com/user-attachments/assets/e2f59f76-9ad4-484d-97b3-0762cae6c8e9" />
+<img width="1710" height="1107" alt="8" src="https://github.com/user-attachments/assets/346fe8ea-df84-4544-816c-9aabc08dcea6" />
+<img width="1710" height="1107" alt="9" src="https://github.com/user-attachments/assets/5ab6d079-6b75-4c7b-84e8-aad69e306c97" />
+<img width="1710" height="1107" alt="10" src="https://github.com/user-attachments/assets/0d850562-13b9-4061-8e2e-8756de25875c" />
+<img width="1710" height="1107" alt="11" src="https://github.com/user-attachments/assets/c575ac7d-b832-423f-82d1-89f43f76a715" />
+<img width="1710" height="1107" alt="12" src="https://github.com/user-attachments/assets/81b3c03e-96f0-4409-9832-1a1dfec86de2" />
+<img width="1710" height="1107" alt="13" src="https://github.com/user-attachments/assets/aa267833-ca27-41c1-a9d9-b4f822a471e4" />
+<img width="1710" height="1107" alt="14" src="https://github.com/user-attachments/assets/9b34f8f1-1c0e-4ea8-aa82-1641c80b25e7" />
+<img width="1710" height="1107" alt="15" src="https://github.com/user-attachments/assets/dd277fb4-0bb4-4e14-9e7f-9818ab46a1d8" />
+<img width="1710" height="1107" alt="16" src="https://github.com/user-attachments/assets/604959e1-1195-4cd3-be79-f31f5c476197" />
+<img width="1710" height="1107" alt="17" src="https://github.com/user-attachments/assets/04728e48-4b29-4e85-a254-44509fc56d64" />
+<img width="1710" height="1107" alt="18" src="https://github.com/user-attachments/assets/6825ace2-b2aa-4e51-9438-1c4430accefc" />
+<img width="1710" height="1107" alt="19" src="https://github.com/user-attachments/assets/c7da1264-0111-498f-9b04-212b5743e392" />
